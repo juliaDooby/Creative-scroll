@@ -1,5 +1,5 @@
 
-### Верстка сайта 'Creative-scroll' / Creative-scroll
+### Верстка сайта 'Creative-scroll' / 'Creative-scroll'
 
 ---
 
