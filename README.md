@@ -1,7 +1,8 @@
 
 ### Верстка сайта 'Creative-scroll' / 'Creative-scroll'
 
-https://juliadooby.github.io/Creative-scroll/
+ 
+[Посмотрите сами](https://juliadooby.github.io/Creative-scroll/)   
 
 ---
 
