@@ -1,6 +1,6 @@
 
 ### Верстка сайта 'Creative-scroll' / 'Creative-scroll'
-
+<!-- ⋞ ➤ МНЕ: ДОБАВИТЬ МОБИЛьный АДАПТИВ И ОПУБЛИКОВАТЬ ! ◄╝ ⋟ -->
  
 [Посмотрите сами](https://juliadooby.github.io/Creative-scroll/)   
 
