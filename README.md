@@ -1,19 +1,15 @@
 
-### Верстка сайта 'Creative-scroll' / 'Creative-scroll'
-<!-- ⋞ ➤ МНЕ: ДОБАВИТЬ МОБИЛьный АДАПТИВ И ОПУБЛИКОВАТЬ ! ◄╝ ⋟ -->
-### ( Внимание! Нет мобильного адаптива ! ) 
+### Website layout 'Creative-scroll' 
+## (Without mobile adaptive !)
  ---
  
-[Посмотрите сами](https://juliadooby.github.io/Creative-scroll/)   
-
+[demo](https://juliadooby.github.io/Creative-scroll/)   
 ---
 
-### Стек / Stack: 
+### Stack: 
 
 * HTML
 * CSS
 * Javascript 
 * GSAP
 ---
-
-## Не забудьте поставить звездочку ! ! ! ★ 
