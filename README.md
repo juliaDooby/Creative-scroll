@@ -11,7 +11,7 @@
 ### - I'll resolve the issue soon, Thanks for understanding !
 ---
 
-### Stack: 
+### Technologies Used:
 
 * HTML
 * CSS
