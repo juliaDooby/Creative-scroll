@@ -7,7 +7,7 @@
 [demo](https://juliadooby.github.io/Creative-scroll/)   
 ---
 
-### Stack: 
+### Technologies Used:
 
 * HTML
 * CSS
