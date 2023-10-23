@@ -8,7 +8,7 @@
 ---
 
  ### Please note: project code on master branch ((temporarily) 
-### - I'll resolve the issue soon, Thanks for understanding !
+<!-- ### - I'll resolve the issue soon, Thanks for understanding ! -->
 ---
 
 ### Technologies Used:
